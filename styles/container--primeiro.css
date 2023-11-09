@@ -81,10 +81,10 @@
 
     .container__primeiro {
         flex-direction: row;
-        padding: 0 220px 80px 220px;
+        padding: 0 22rem 8rem 22rem;
     }
 
     .container__primeiro--imagem {
-        width: 474px;
+        width: 47.4rem;
     }
 }
