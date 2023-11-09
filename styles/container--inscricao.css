@@ -54,7 +54,7 @@
 .container__incricao--form-input button {
     width: 35%;
     color: white;
-    background: var(--azul-escuro);
+    background: var(--azul-botao);
     border-radius: 0 65px 65px 0;
     border: none;
     font-size: 24px;
@@ -63,11 +63,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.container__incricao--form-input button:hover {
-    background: var(--lilas-escuro);
-    transition: .5s;
 }
 
 .container__incricao--form-input-div {

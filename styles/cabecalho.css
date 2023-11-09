@@ -39,6 +39,11 @@
   line-height: 150%;
 }
 
+.cabecalho .cabecalho__nav .cabecalho__nav--lista a:hover {
+  font-weight: 600;
+  transition: .5s;
+}
+
 @media screen and (min-width: 768px) {
   /* Tablet */
 
