@@ -78,8 +78,8 @@
 .container__contato .container__contato--form .container__contato--inputs .container__contato--inputs--div {
     display: flex;
     flex-direction: column;
-    row-gap: 1.0rem;
-    padding: 1.0rem;
+    row-gap: 3.5rem;
+    padding: 2rem;
 }
 
 .container__contato .container__contato--form button {
@@ -135,8 +135,8 @@
 
     .container__contato .container__contato--form .container__contato--inputs .container__contato--inputs--div {
         flex-direction: row;
-        column-gap: 1.0rem;
-        padding: 1.5rem 0;
+        column-gap: 3.5rem;
+        padding: 3.5rem 0;
     }
 
 }
