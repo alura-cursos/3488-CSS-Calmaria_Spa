@@ -35,6 +35,12 @@
     font-weight: 700;
 }
 
+.container__primeiro--texto-botao:hover {
+    background: var(--lilas-escuro);
+    transition: .5s;
+    cursor: pointer;
+}
+
 .container__primeiro--imagem {
     width: 297px;
     height: 384px;
